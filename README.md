@@ -1,3 +1,3 @@
 # PythonProjects
-Here the python projects added here include basics and advanced of python
+Here the python projects added include basics and advanced of python
 
